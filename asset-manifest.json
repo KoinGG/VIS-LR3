@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/gh-pages/static/js/main.e32edbd4.js",
-    "static/js/787.952a9f4c.chunk.js": "/gh-pages/static/js/787.952a9f4c.chunk.js",
-    "index.html": "/gh-pages/index.html",
-    "main.f855e6bc.css.map": "/gh-pages/static/css/main.f855e6bc.css.map",
-    "main.e32edbd4.js.map": "/gh-pages/static/js/main.e32edbd4.js.map",
-    "787.952a9f4c.chunk.js.map": "/gh-pages/static/js/787.952a9f4c.chunk.js.map"
+    "main.css": "/VIS-LR3/static/css/main.f855e6bc.css",
+    "main.js": "/VIS-LR3/static/js/main.e32edbd4.js",
+    "static/js/787.952a9f4c.chunk.js": "/VIS-LR3/static/js/787.952a9f4c.chunk.js",
+    "index.html": "/VIS-LR3/index.html",
+    "main.f855e6bc.css.map": "/VIS-LR3/static/css/main.f855e6bc.css.map",
+    "main.e32edbd4.js.map": "/VIS-LR3/static/js/main.e32edbd4.js.map",
+    "787.952a9f4c.chunk.js.map": "/VIS-LR3/static/js/787.952a9f4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
