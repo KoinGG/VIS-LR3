@@ -1,7 +1,7 @@
 {
-  "name": "gh-pages-demo",
+  "name": "VIS-LR3",
   "version": "0.1.0",
-  "homepage": "https://KoinGG.github.io/gh-pages",
+  "homepage": "https://KoinGG.github.io/VIS-LR3",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
